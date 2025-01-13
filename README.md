@@ -44,5 +44,5 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ## Contact
 For questions or collaboration opportunities, feel free to reach out to:
-- **Name**: [Your Name]
-- **Email**: [Your Email Address]
+- **Name**: Saurabh Sarate
+- **Email**: saurabhsarate357@gmail.com
